@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="AngleSharp" Version="0.9.9" />
+    <PackageReference Include="FirebaseDatabase.net" Version="3.0.2" />
   </ItemGroup>
 
   <ItemGroup>
